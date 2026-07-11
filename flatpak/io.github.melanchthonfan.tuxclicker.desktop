@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Tux Clicker
+Comment=A simple Tux clicking game
+Exec=TuxClicker
+Icon=io.github.melanchthonfan.tuxclicker
+Terminal=false
+Type=Application
+Categories=Game;
+Keywords=Tux;Linux;Clicker;Game;
+StartupNotify=true

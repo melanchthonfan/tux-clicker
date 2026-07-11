@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+
+  <id>io.github.melanchthonfan.tuxclicker</id>
+
+  <name>Tux Clicker</name>
+  <summary>A simple Tux clicking game</summary>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      Tux Clicker is a simple Linux-themed clicking game featuring Tux,
+      the Linux mascot. Click Tux and increase your score.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">
+    io.github.melanchthonfan.tuxclicker.desktop
+  </launchable>
+
+  <developer id="github.com.melanchthonfan">
+    <name>melanchthonfan</name>
+  </developer>
+
+  <url type="homepage">
+    https://github.com/melanchthonfan/tux-clicker
+  </url>
+
+  <url type="bugtracker">
+    https://github.com/melanchthonfan/tux-clicker/issues
+  </url>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>Tux Clicker gameplay</caption>
+      <image>https://raw.githubusercontent.com/melanchthonfan/tux-clicker/main/screenshots/1.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>Tux Clicker gameplay</caption>
+      <image>https://raw.githubusercontent.com/melanchthonfan/tux-clicker/main/screenshots/2.png</image>
+    </screenshot>
+  </screenshots>
+
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+  </content_rating>
+
+  <releases>
+    <release version="1.0" date="2026-07-11">
+      <description>
+        <p>Initial release of Tux Clicker.</p>
+      </description>
+    </release>
+  </releases>
+
+</component>
